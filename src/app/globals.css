@@ -12,3 +12,6 @@ html {
 .responsive-box {
   @apply container mx-auto px-5 max-md:px-3 max-sm:px-2;
 }
+button {
+  @apply btn btn-accent text-white;
+}
