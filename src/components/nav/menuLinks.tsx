@@ -6,23 +6,23 @@ export const MenuLinks = () => {
         },
         {
             title: "About",
-            path: "/"
+            path: "/about"
         },
         {
             title: "Skills",
-            path: "/"
+            path: "/#skills"
         },
         {
             title: "Education",
-            path: "/"
+            path: "/education"
         },
         {
             title: "Projects",
-            path: "/"
+            path: "/#project"
         },
         {
             title: "Contact",
-            path: "/"
+            path: "/contact"
         },
     ]
     return links
