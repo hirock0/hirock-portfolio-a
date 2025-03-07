@@ -36,7 +36,7 @@ const Nav = () => {
                 <div className=" flex items-center justify-between w-full h-full">
                     <div className="">
                         <div className=" w-12 h-12 rounded-full overflow-hidden shadow-md shadow-white">
-                            <Image src={"https://res.cloudinary.com/dusp1j4e0/image/upload/v1738893869/My_Portfolio/logos/WEB_DEV_mxhb5s.gif"} alt="logo" width={500} height={500} />
+                            <Image priority src={"https://res.cloudinary.com/dusp1j4e0/image/upload/v1738893869/My_Portfolio/logos/WEB_DEV_mxhb5s.gif"} alt="logo" width={500} height={500} />
                         </div>
                     </div>
                     {/* middle_start */}
@@ -70,7 +70,7 @@ const Nav = () => {
                                             <button>Download</button>
                                         </Link>
                                         <Link
-                                            href={"https://drive.google.com/file/d/18IS2TFAdYLATj5OKy0Yoa4OYnnnaTtrB/view?usp=drive_link"}
+                                            href={"https://drive.google.com/file/d/1kgSuX-vgX1qalF-vY-VV6p2rkggLZjM1/view"}
                                             target="_blank"
                                         >
 

@@ -104,7 +104,7 @@ const Banner = () => {
                                                     <button>Download</button>
                                                 </Link>
                                                 <Link
-                                                    href={"https://drive.google.com/file/d/18IS2TFAdYLATj5OKy0Yoa4OYnnnaTtrB/view?usp=drive_link"}
+                                                    href={"https://drive.google.com/file/d/1kgSuX-vgX1qalF-vY-VV6p2rkggLZjM1/view"}
                                                     target="_blank"
                                                 >
 

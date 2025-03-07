@@ -3,13 +3,12 @@ import Link from "next/link"
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaFacebookSquare } from "react-icons/fa";
-
 const Footer = () => {
     return (
         <footer className="bg-neutral text-neutral-content py-5">
             <div className=" responsive-box">
                 <div className=" w-20 h-20 rounded-full overflow-hidden shadow-md shadow-white">
-                    <Image src={"https://res.cloudinary.com/dusp1j4e0/image/upload/v1738893869/My_Portfolio/logos/WEB_DEV_mxhb5s.gif"} alt="logo" width={500} height={500} />
+                    <Image priority src={"https://res.cloudinary.com/dusp1j4e0/image/upload/v1738893869/My_Portfolio/logos/WEB_DEV_mxhb5s.gif"} alt="logo" width={500} height={500} />
                 </div>
                 <div className="footer mt-5">
                     <nav>
