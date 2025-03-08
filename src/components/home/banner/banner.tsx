@@ -92,7 +92,7 @@ const Banner = () => {
                                     <button className="w-full">Resume</button>
 
 
-                                    <div className="hidden group-hover:block  absolute w-full p-2 bg-white rounded-md shadow-lg">
+                                    <div className="hidden group-hover:block  absolute w-full p-2 bg-slate-800/90  rounded-md shadow-lg">
                                         <div className=" w-full h-32 flex items-center justify-center">
                                             <div className=" flex items-center gap-2 ">
                                                 <Link

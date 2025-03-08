@@ -5,8 +5,8 @@ import { IoLink } from "react-icons/io5";
 const Project_card = ({ item }: { item: any }) => {
     return (
         <div className=" w-full">
-            <div className=" w-full shadow-lg flex lg:items-center max-lg:flex-col">
-                <div className=" cursor-pointer group w-1/2 max-lg:w-full p-5 flex items-center justify-center">
+            <div className=" w-full flex lg:items-center max-lg:flex-col">
+                <div className=" cursor-pointer shadow-lg rounded-lg shadow-white group w-1/2 max-lg:w-full p-5 flex items-center justify-center">
                     <Image className=" group-hover:hidden" src={item?.projectImage?.image} alt={item?.title} width={500} height={500} />
                     <video src={item?.videoLink}
                         controls={false}
