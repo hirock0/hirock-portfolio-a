@@ -70,7 +70,7 @@ const Nav = () => {
                                             <button>Download</button>
                                         </Link>
                                         <Link
-                                            href={"https://drive.google.com/file/d/1kgSuX-vgX1qalF-vY-VV6p2rkggLZjM1/view"}
+                                            href={"https://drive.google.com/file/d/1y0VXXyVW3jcfGcfnGUzIbAbyacwtePGp/view"}
                                             target="_blank"
                                         >
 
